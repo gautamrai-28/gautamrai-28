@@ -36,7 +36,7 @@ I'm a passionate software engineering student with a strong foundation in **comp
 
 ## 🚀 Current Focus
 
-- 🔭 **Currently Building:** [AutoDocs](#) — an AI-powered GitHub repository documentation generator
+- 🔭 **Currently Building:** [AutoDocs](https://github.com/gautamrai-28/AutoDocs) — an AI-powered GitHub repository documentation generator
 - 🌱 **Currently Exploring:** LLM-based code analysis, asynchronous pipelines & rate-limit-aware API design
 - 💡 **Interests:** Full Stack Development, System Design, AI/LLM Integration, Competitive Programming
 - 🎯 **Goal:** Landing a Software Engineering role at a top product-based company
@@ -70,7 +70,7 @@ I'm a passionate software engineering student with a strong foundation in **comp
 
 ## 💼 Projects
 
-### 🤖 [AutoDocs — AI-Powered Repository Documentation Generator](#) <sub>*(May 2026 – Jun 2026)*</sub>
+### 🤖 [AutoDocs — AI-Powered Repository Documentation Generator](https://autodocs-frontend-eight.vercel.app/) <sub>*(May 2026 – Jun 2026)*</sub>
 **[Repository Coming Soon]**
 
 > A full-stack web application that automates codebase parsing and documentation generation using LLMs.
@@ -88,8 +88,7 @@ I'm a passionate software engineering student with a strong foundation in **comp
 
 ---
 
-### 🖥️ [CPU Scheduler Visualizer — Full Stack Web Application](#) <sub>*(Dec 2025 – Jan 2026)*</sub>
-**[Repository Coming Soon]**
+### 🖥️ [CPU Scheduler Visualizer — Full Stack Web Application](https://cpu-scheduler-visualizer-ny42.onrender.com/) <sub>*(Dec 2025 – Jan 2026)*</sub>
 
 > An interactive visualizer for core operating system CPU scheduling algorithms with real-time animations.
 
@@ -105,7 +104,7 @@ I'm a passionate software engineering student with a strong foundation in **comp
 
 <div align="center">
 
-📌 *[View All Projects →](#)*
+📌 *[View All Projects →](https://gautamrai-28.github.io/)*
 
 </div>
 
@@ -148,8 +147,8 @@ I'm a passionate software engineering student with a strong foundation in **comp
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](YOUR_GFG_URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gautam_28/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/gautamrai?tab=activity)
 
 </div>
 
