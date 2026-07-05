@@ -71,7 +71,6 @@ I'm a passionate software engineering student with a strong foundation in **comp
 ## 💼 Projects
 
 ### 🤖 [AutoDocs — AI-Powered Repository Documentation Generator](https://autodocs-frontend-eight.vercel.app/) <sub>*(May 2026 – Jun 2026)*</sub>
-**[Repository Coming Soon]**
 
 > A full-stack web application that automates codebase parsing and documentation generation using LLMs.
 
